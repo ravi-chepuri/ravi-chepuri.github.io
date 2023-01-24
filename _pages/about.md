@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This is Ravi Chepuri's personal academic webpage. It is currently under construction, so information may not be up to date yet!
+Welcome! I am Ravi, a first-year Ph.D. student in the Department of Physics at the University of Maryland, College Park. My research interests are in complex systems — I seek to understand and model phenomena that arise from the interactions of many component parts. I am advised by [Professor Michelle Girvan](https://sites.google.com/umd.edu/networks/home).
 
-Insert description here
+Originally from Minneapolis, Minnesota, I received my bachelor's degree from Northwestern University in Physics, Math, and Integrated Science, where my undergraduate honors thesis was advised by [Professor István Kovács](https://sites.northwestern.edu/kovacslab/).
+
+[Here is a link to my CV.](https://ravi-chepuri.github.io/cv/) Please contact me at rchepuri \[at\] umd \[dot\] edu.
+
+
+This webpage is currently under construction, so some information may not be up to date yet!
 
 [Guide for setting up website](https://academicpages.github.io)
 
