@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Ravi Chepuri's personal academic webpage. It is currently under construction!
+This is Ravi Chepuri's personal academic webpage. It is currently under construction, so information may not be up to date yet!
 
 Insert description here
 
