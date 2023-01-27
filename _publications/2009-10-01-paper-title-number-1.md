@@ -5,10 +5,10 @@ permalink: /publication/complex-quantum-network-models-from-spin-clusters
 excerpt: 'Short description here'
 date: 2022-12-16
 venue: 'In peer review at Communications Physics'
-paperurl: 'https://doi.org/10.48550/arXiv.2210.15838'
+paperurl: 'http://ravi-chepuri.github.io/files/paper1.pdf'
 citation: 'blank'
 ---
 
 Long description here
 
-[Download paper here](https://arxiv.org/pdf/2210.15838.pdf)
+[Download paper here](http://ravi-chepuri.github.io/files/paper1.pdf)
