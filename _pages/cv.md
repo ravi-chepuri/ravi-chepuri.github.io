@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+<object data="http://ravi-chepuri.github.io/files/paper1.pdf" width="1000" height="1000" type='application/pdf'/></object>
+
+
+
 {% include base_path %}
 
 Education
