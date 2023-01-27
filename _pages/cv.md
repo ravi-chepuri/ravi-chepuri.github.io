@@ -9,10 +9,6 @@ redirect_from:
 
 *(Last updated: January 2023)*
 
-TODO: Upload actual CV
-
-testing content above object tag
+TODO: Upload real CV
 
 <object data="../files/Sample CV file.pdf" width="1000" height="1000" type='application/pdf'></object>
-
-testing content below object tag
