@@ -9,7 +9,7 @@ redirect_from:
 
 asdf
 
-<object data="../files/paper1.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="../files/paper1.pdf" width="1000" height="1000" type='application/pdf'/><\object>
 
 {% include base_path %}
 
