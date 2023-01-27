@@ -9,4 +9,4 @@ redirect_from:
 
 *(Last updated: January 2023)*
 
-<object data="../files/paper1.pdf" width="1000" height="1000" type='application/pdf'/></object>
+<object data="../files/Sample CV file.pdf" width="1000" height="1000" type='application/pdf'/></object>
