@@ -1,7 +1,7 @@
 ---
 title: "Complex quantum network models from spin clusters"
 collection: publications
-permalink: /publications/complex-quantum-network-models-from-spin-clusters
+permalink: /publication/complex-quantum-network-models-from-spin-clusters
 excerpt: 'Description here'
 date: 2022-12-16
 venue: 'In peer review at Communications Physics'
