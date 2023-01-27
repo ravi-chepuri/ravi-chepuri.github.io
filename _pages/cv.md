@@ -11,4 +11,8 @@ redirect_from:
 
 TODO: Upload actual CV
 
-<object data="../files/Sample CV file.pdf" width="1000" height="1000" type='application/pdf'/></object>
+testing content above object tag
+
+<object data="../files/Sample CV file.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+testing content below object tag
