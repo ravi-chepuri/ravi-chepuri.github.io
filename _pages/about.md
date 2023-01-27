@@ -14,11 +14,8 @@ Originally from Minneapolis, Minnesota, I received my bachelor's degree from Nor
 
 [Here is a link to my CV.](https://ravi-chepuri.github.io/cv/) Please contact me at rchepuri \[at\] umd \[dot\] edu.
 
-![Collective synchronization in the Kuramoto model](https://imgur.com/4aeM2Jn.gifv)
-
-Collective synchronization in the Kuramoto model. This animation was produced by my undergraduate mentee as part of the GRAD-MAP program; see [this blog post]() to learn more.
-
-![Imgur](https://i.imgur.com/4aeM2Jn.gifv)
+![Collective synchronization in the Kuramoto model](https://imgur.com/4aeM2Jn.gif)
+*Collective synchronization in the Kuramoto model. This animation was produced by my undergraduate mentee as part of the GRAD-MAP program; see [this blog post]() to learn more.*
 
 
 This webpage is currently under construction, so some information may not be up to date yet!
