@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<object data="the.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="files/Sample CV file.pdf" width="1000" height="1000" type='application/pdf'/>
 
 {% include base_path %}
 
