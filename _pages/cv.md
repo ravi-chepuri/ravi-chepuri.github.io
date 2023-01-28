@@ -8,5 +8,6 @@ redirect_from:
 ---
 
 *(Last updated: January 2023)*
+Switched to embed tag
 
-<object data="../files/CV_Jan2023.pdf" width="1000" height="1000" type='application/pdf'></object>
+<embed src="../files/CV_Jan2023.pdf" type="application/pdf"/>
