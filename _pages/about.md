@@ -12,7 +12,7 @@ Welcome! I am Ravi, a first-year Ph.D. student in the Department of Physics at t
 
 Originally from Minneapolis, Minnesota, I received my bachelor's degree from Northwestern University in Physics, Math, and Integrated Science, where my undergraduate honors thesis was advised by [Professor István Kovács](https://sites.northwestern.edu/kovacslab/).
 
-[Here is a link to my CV.](https://ravi-chepuri.github.io/cv/) Please contact me at rchepuri \[at\] umd \[dot\] edu.
+[Here is a link to my CV.](../files/CV_Jan2023.pdf) Please contact me at rchepuri \[at\] umd \[dot\] edu.
 
 <p align="center">
   <img src="https://imgur.com/4aeM2Jn.gif" alt="Collective synchronization in the Kuramoto model"/>
