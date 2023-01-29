@@ -18,5 +18,5 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 # Presentations
 
 {% for post in site.talks reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-talk.html %}
 {% endfor %}
