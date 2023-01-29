@@ -8,7 +8,10 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
+    
+  - title: "Mentoring & Outreach"
+    url: /mentoring/   
 
   - title: "Teaching"
     url: /teaching/
