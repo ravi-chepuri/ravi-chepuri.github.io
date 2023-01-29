@@ -18,6 +18,6 @@ Originally from Minneapolis, Minnesota, I received my bachelor's degree from Nor
   <img src="https://imgur.com/4aeM2Jn.gif" alt="Collective synchronization in the Kuramoto model"/>
 </p>
 
-*Collective synchronization in the Kuramoto model. This animation was produced by my undergraduate mentee as part of the [GRAD-MAP program](https://www.umdgradmap.org/).
+*Collective synchronization in the Kuramoto model. This animation was produced by my undergraduate mentee as part of the [GRAD-MAP program](https://www.umdgradmap.org/).*
 
 This webpage is currently under construction, so some information may not be up to date yet!
