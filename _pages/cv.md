@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-My CV can be downloaded [here](../files/CV_Oct2023.pdf).
+My CV can be downloaded [here](../files/RC_CV_JUL2026.pdf).
 
-*(Last updated: October 2023)*
+*(Last updated: July 2026)*
 
-<embed src="../files/CV_Oct2023.pdf" width="1000" height="1000" type="application/pdf"/>
+<embed src="../files/RC_CV_JUL2026.pdf" width="1000" height="1000" type="application/pdf"/>
